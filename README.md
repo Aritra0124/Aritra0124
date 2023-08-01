@@ -1,10 +1,10 @@
-# Aritra Chakraborty
+# Aritra Chakraborty 👨‍💻
 
-## Summary
+## Summary 👉
 
-Passionate and results-driven Senior Backend Engineer with 2+ years of experience in Python, Django, AWS, and DevOps. Proven expertise in delivering high-performance web applications and seamless RESTful API integrations. Skilled in optimizing database models, implementing secure authentication mechanisms, and ensuring efficient deployment using Docker and AWS services. Eager to take on new challenges and contribute to innovative projects in the software industry.
+Passionate and results-driven Senior Backend Engineer with 2+ years of experience in Python 🐍, Django 🎯, AWS ☁️, and DevOps 🛠️. Proven expertise in delivering high-performance web applications and seamless RESTful API integrations. Skilled in optimizing database models, implementing secure authentication mechanisms, and ensuring efficient deployment using Docker 🐳 and AWS services. Eager to take on new challenges and contribute to innovative projects in the software industry. 🚀
 
-## Work Experience
+## Work Experience 🏢
 
 ### Django Developer | Soliva Technologies | Nov 2022 - Present
 - Developed and maintained Django-based ETL platform, increasing data processing efficiency by 15%.
@@ -25,7 +25,7 @@ Passionate and results-driven Senior Backend Engineer with 2+ years of experienc
 - Ensured data synchronization and integration between systems through REST API calls.
 - Processed health data in HL7 format to adhere to international standardization.
 
-## Education
+## Education 📚
 
 ### Master of Technology - MTech, Computer Science & Engineering
 Maulana Abul Kalam Azad University of Technology, West Bengal formerly WBUT | Aug 2019 - Jul 2021
@@ -33,17 +33,20 @@ Maulana Abul Kalam Azad University of Technology, West Bengal formerly WBUT | Au
 ### Bachelor of Technology, Computer Science
 College of Engineering and Management, Kolaghat 107 | Aug 2015 - Jul 2019
 
-## Projects
+## Projects 🚀
 
 - [CI/CD Automation Platform](link-to-repo): Managed resources in the pipeline using Python Django-based dashboard and Docker in AWS ECS.
 - [AWS Resource Creation](link-to-repo): Streamlined resource creation in AWS using Flask, Boto3, and Terraform.
 - [Grafana Dashboard for Monitoring VM and Containers](link-to-repo): Real-time monitoring of virtual machines and containers using Python3, Grafana, and Prometheus.
 
-## Skills
+## Research Work 📝
+- [A Comparative Study of Myocardial Infarction Detection from ECG Data using Machine Learning](https://link.springer.com/chapter/10.1007/978-981-16-2164-2_21): Researched and analyzed advanced ML techniques for myocardial infarction detection from ECG image data.
+
+## Skills 🔧
 
 - Python • Django • Flask • AWS • Docker • Terraform • MySQL • Git • DevOps
 
-## Contact
+## Contact 📞
 
 - Email: [aritrachakraborty0124@gmail.com](mailto:aritrachakraborty0124@gmail.com)
 - LinkedIn: [linkedin.com/in/aritrachakraborty1](https://www.linkedin.com/in/aritrachakraborty1/)
