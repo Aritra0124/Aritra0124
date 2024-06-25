@@ -2,9 +2,17 @@
 
 ## Summary 👉
 
-Passionate and results-driven Senior Backend Engineer with 2+ years of experience in Python 🐍, Django 🎯, AWS ☁️, and DevOps 🛠️. Proven expertise in delivering high-performance web applications and seamless RESTful API integrations. Skilled in optimizing database models, implementing secure authentication mechanisms, and ensuring efficient deployment using Docker 🐳 and AWS services. Eager to take on new challenges and contribute to innovative projects in the software industry. 🚀
+Passionate and results-driven Senior Backend Engineer with 4+ years of experience in Python 🐍, Django 🎯, AWS ☁️, and DevOps 🛠️. Proven expertise in delivering high-performance web applications and seamless RESTful API integrations. Skilled in optimizing database models, implementing secure authentication mechanisms, and ensuring efficient deployment using Docker 🐳 and AWS services. Eager to take on new challenges and contribute to innovative projects in the software industry. 🚀
 
 ## Work Experience 🏢
+
+### Software Developer | Labor Solutions | Oct 2023 - Present
+- Developed and implemented new features for the IT product, enhancing functionality and user experience.
+- Designed, created, and maintained API endpoints to ensure seamless integration with front-end applications, focusing on security, efficiency, and comprehensive documentation.
+- Debugged and resolved issues by analysing root causes, suggesting solutions, and implementing fixes to maintain system stability and performance.
+- Authored detailed test cases and conducted unit testing to ensure robust functionality and reliability of new features.
+- Reviewed code contributions from team members, ensuring adherence to project standards and providing constructive feedback for improvements.
+- Documented development processes, feature specifications, and troubleshooting guides to maintain clear and comprehensive project documentation.
 
 ### Django Developer | Soliva Technologies | Nov 2022 - Present
 - Developed and maintained Django-based ETL platform, increasing data processing efficiency by 15%.
