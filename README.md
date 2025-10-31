@@ -6,7 +6,10 @@ Passionate and results-driven Senior Backend Engineer with 4+ years of experienc
 
 ## Work Experience 🏢
 
-### Software Developer | Labor Solutions | Oct 2023 - Present
+### Senior Cloud Engineer | LTIMINDTREE | Oct 2024 - Present
+- Working on different types of project from insurance domain to manufacturing domain
+
+### Software Developer | Labor Solutions | Oct 2023 - Oct 2024
 - Developed and implemented new features for the IT product, enhancing functionality and user experience.
 - Designed, created, and maintained API endpoints to ensure seamless integration with front-end applications, focusing on security, efficiency, and comprehensive documentation.
 - Debugged and resolved issues by analysing root causes, suggesting solutions, and implementing fixes to maintain system stability and performance.
