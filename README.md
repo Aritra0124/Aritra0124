@@ -6,7 +6,11 @@ Passionate and results-driven Senior Backend Engineer with 4+ years of experienc
 
 ## Work Experience 🏢
 
-### Senior Cloud Engineer | LTIMINDTREE | Oct 2024 - Present
+
+### Consultant | Deloitte USI | Feb 2026 - Present
+- Working on different types of project from insurance domain to manufacturing domain
+
+### Senior Cloud Engineer | LTIMINDTREE | Oct 2024 - Jan 2026
 - Working on different types of project from insurance domain to manufacturing domain
 
 ### Software Developer | Labor Solutions | Oct 2023 - Oct 2024
